@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+/*------------------------------------*\
+  #${1:MAJOR SECTION NAME}
+\*------------------------------------*/
+
+$2
+]]></content>
+    <tabTrigger>commcss</tabTrigger>
+    <scope>source.css</scope>
+</snippet>

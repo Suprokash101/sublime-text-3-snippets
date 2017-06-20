@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+${1:this} {
+    $2
+}
+]]></content>
+    <tabTrigger>sl</tabTrigger>
+    <scope>source.css</scope>
+</snippet>
